@@ -1,4 +1,4 @@
-#Vinharia-agnello
+#Vinheria-agnello
 ##Sistema para cadastro de vinhos artesanais via prompt() para a Vinheira Agnello
 
 <ol>
